@@ -2,15 +2,15 @@
 
 Kako instalirati i pokrenuti projekt:
 
-1. pokrenuti komandu: sudo apt install python3-pip
+1. Potrebno je instalirati "pip" za python3 verziju, pokrenuti komandu: sudo apt install python3-pip
 
 2. pokrenuti komandu za instalaciju django-a: pip3 install django
 
 3. Pokrenuti komandu: git clone https://github.com/Nebra98/Kalkulator-kalorijske-vrijednosti-obroka-Django-.git , ili Download ZIP
 
-4. Nakon što ste preuzeli datoteku, potrebno se navigirate u nju preko terminala ili cmd-a
+4. Nakon što ste preuzeli datoteku, potrebno se navigiratu u nju preko terminala ili cmd-a
 
-5. Pokrenuti komadnu: python3 manage.py runserver
+5. Kako bi smo pokrenulu lokalni server, potrebno je pokrenuti komadnu: python3 manage.py runserver
 
 Podaci za logiranje u admin panel (uobičajeno http://127.0.0.1:8000/admin) su:
 - username: bulic
