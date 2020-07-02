@@ -1,5 +1,7 @@
 # Kalkulator-kalorijske-vrijednosti-obroka-Django-
 
+# Kratke upute
+
 Kako instalirati i pokrenuti projekt:
 
 1. Potrebno je instalirati "pip" za python3 verziju, pokrenuti komandu: sudo apt install python3-pip
